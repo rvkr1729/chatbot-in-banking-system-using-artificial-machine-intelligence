@@ -1,0 +1,8 @@
+ numpy==1.19.2
+ pandas==0.25.3
+ Django==2.1.7
+ scikit-learn==1.0.2
+ PyMySQL==0.9.3
+ nltk==3.4.5
+
+# python version 3.7.0
